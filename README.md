@@ -1,0 +1,1 @@
+# Tublikka-tekshirish-va-fibonach-isonlar
